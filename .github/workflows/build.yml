@@ -25,5 +25,5 @@ jobs:
       - name: Upload a Build Target
         uses: actions/upload-artifact@v2.3.1
         with:
-          name: "CatSero-Artifact"
+          name: "Plugin-Artifact"
           path: target/
