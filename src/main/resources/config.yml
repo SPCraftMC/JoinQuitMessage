@@ -1,0 +1,3 @@
+message:
+  join: "[&a+&r]&a%player%&r"
+  quit: "[&c-&r]&c%player%&r"

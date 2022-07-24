@@ -1,0 +1,6 @@
+name: SPMC-Plugin-0
+main: moe.xmcn.spcraft.joinquitmessage.Main
+description: SPCraft-Plugin-0
+version: 1.0
+api-version: 1.18
+author: SPCraftMC
