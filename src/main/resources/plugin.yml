@@ -1,4 +1,4 @@
-name: SPMC-Plugin-0
+name: JoinQuitMessage
 main: moe.xmcn.spcraft.joinquitmessage.Main
 description: SPCraft-Plugin-0
 version: 1.0
