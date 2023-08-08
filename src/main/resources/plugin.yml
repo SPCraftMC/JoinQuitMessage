@@ -1,6 +1,6 @@
 name: JoinQuitMessage
 main: moe.xmcn.spcraft.joinquitmessage.Main
-description: SPCraft-Plugin-0
+description: JoinQuitMessage
 version: 1.0
 api-version: 1.18
 author: SPCraftMC
